@@ -1,4 +1,4 @@
-package cn.eoe.app.db;
+﻿package cn.eoe.app.db;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -136,3 +136,4 @@ public class DBHelper extends SQLiteOpenHelper {
 	}
 
 }
+
